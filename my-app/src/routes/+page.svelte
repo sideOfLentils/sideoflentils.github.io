@@ -1,8 +1,3 @@
-<nav>
-    <a href="/">Home</a>
-    <a href="/about">About</a>
-</nav>
-
 <script>
     let name = "David";
 </script>
