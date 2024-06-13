@@ -1,8 +1,16 @@
-<script>
-    let name = "David";
-</script>
-
-<h1>Welcome to My Website!</h1>
-<h3> by: {name} </h3>
-<p> still a work in progress! </p>
-<!-- <button on:click={}>About</button> -->
+<svelte:head>
+    <title>Home</title>
+    <meta name="description" content="My Portfolio Website" />
+</svelte:head>
+<div class="container card">
+    <div class="business-card">
+        <div class="business-card-text">
+            David Condroski
+            <br/>
+            <br/>
+            Master of Computer Science
+            <br/>
+            Student @ <span class="illinois">Illinois</span>
+        </div>
+    </div>
+</div>
