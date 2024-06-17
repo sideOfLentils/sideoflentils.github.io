@@ -1,5 +1,10 @@
+<svelte:head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Gothic+A1&display=swap" rel="stylesheet">
+</svelte:head>
 <script>
-    import './styles.css';
+    import "./styles.css";
 </script>
 <div class="container nav">
     <nav>
