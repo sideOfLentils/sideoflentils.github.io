@@ -1,4 +1,4 @@
-import{s as p,n as o}from"../chunks/scheduler.k-kUyWhY.js";import{S as h,i as f,g as l,s as v,z as _,h as d,f as i,c as x,x as b,k as c,y as M,a as m}from"../chunks/index.Gr9dGhNC.js";function y(u){let e,n,t,r=`<div class="business-card"><div class="business-card-text">David Condroski
+import{s as p,n as o}from"../chunks/scheduler.k-kUyWhY.js";import{S as h,i as f,g as l,s as v,x as _,h as d,f as i,c as x,y as b,k as c,z as M,a as m}from"../chunks/index.nVwUJEsm.js";function y(u){let e,n,t,r=`<div class="business-card"><div class="business-card-text">David Condroski
             <br/> <br/>
             Master of Computer Science
             <br/>
