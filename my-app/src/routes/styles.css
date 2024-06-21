@@ -1,5 +1,5 @@
 :root {
-    --normal-font: "Gothic A1";
+    --normal-font: "Gothic A1", sans-serif;
     --normal-text-color: #7DE9E2;
     --content-width: 40%;
     --content-height: auto;
@@ -42,6 +42,21 @@ h1, h2, h3, h4, h5, h6, p {
     font-style: normal;
     font-weight: 700;
     line-height: normal;
+}
+
+section {
+    margin: 10% 20%;
+    padding: 2rem;
+
+    background-color: #0d0c11;
+    box-shadow: 10px 5px 5px #030305;
+}
+
+p {
+    margin-bottom: 2rem;
+    font-weight: 400;
+    font-size: 14;
+    line-height: 1.8;
 }
 
 .container {
