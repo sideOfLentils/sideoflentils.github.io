@@ -15,3 +15,16 @@
 </div>
 
 <slot />
+
+<div class="container footer">
+    <footer>
+        Built with SvelteKit
+        <img id="footer-svelte-logo" src="/favicon.png" alt="Svelte Logo"/>
+    </footer>
+</div>
+
+<style>
+    #footer-svelte-logo {
+        width: 1rem;
+    }
+</style>

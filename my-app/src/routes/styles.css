@@ -1,6 +1,7 @@
 :root {
     --normal-font: "Gothic A1", sans-serif;
     --normal-text-color: #7DE9E2;
+    --link-hover-color: #7DE9E2;
     --content-width: 40%;
     --content-height: auto;
 
@@ -35,7 +36,16 @@ nav {
     background-color: #2C2A33;
 }
 
-h1, h2, h3, h4, h5, h6, p {
+a {
+    pointer-events: auto;
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--link-hover-color);
+}
+
+h1, h2, h3, h4, h5, h6, p, footer {
     color: #FFF;
 
     font-family: var(--normal-font);
@@ -59,6 +69,14 @@ p {
     line-height: 1.8;
 }
 
+footer {
+    pointer-events: auto;
+
+    color: lightgray;
+
+    bottom: 0;
+}
+
 .container {
     pointer-events: none;
 
@@ -76,6 +94,12 @@ p {
     align-items: center;
 }
 
+.container.projects {
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
 .container.nav {
     justify-content: flex-end;
     align-items: start;
@@ -84,6 +108,11 @@ p {
 .container.content {
     width: var(--content-width);
     height: var(--content-height);
+}
+
+.container.footer {
+    justify-content: center;
+    align-items: flex-end;
 }
 
 .nav-text {
