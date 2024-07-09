@@ -1,6 +1,6 @@
 :root {
     --normal-font: "Gothic A1", sans-serif;
-    --normal-text-color: #7DE9E2;
+    --normal-text-color: #ffffff;
     --link-hover-color: #7DE9E2;
     --content-width: 40%;
     --content-height: auto;
@@ -148,9 +148,8 @@ footer {
 }
 
 .business-card-text {
-    width: 320px;
-    height: 100px;
-    padding: 20%;
+    position: relative;
+    padding: 5%;
     flex-shrink: 0;
 
     color: var(--normal-text-color);
@@ -160,6 +159,7 @@ footer {
     font-style: normal;
     font-weight: 700;
     line-height: normal;
+    text-align: center;
 }
 
 .illinois {
