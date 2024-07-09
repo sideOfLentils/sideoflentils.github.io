@@ -150,6 +150,7 @@ footer {
 .business-card-text {
     width: 320px;
     height: 100px;
+    padding: 20%;
     flex-shrink: 0;
 
     color: var(--normal-text-color);
