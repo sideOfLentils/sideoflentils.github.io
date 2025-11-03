@@ -4,7 +4,7 @@
     <p>
         My time at the University of Illinois Urbana-Champaign has shown me what is possible throughout the field of computer science 
         and how it connects to all other fields in ways I couldn't have imagined before coming to the university. 
-        Now that I am working on completing my Masters, I have a better sense of what is possible and what I can contribute, whether 
+        Now that I have completed my Masters, I have a better sense of what is possible and what I can contribute, whether 
         it be working in data science using SQL queries, 
         python to construct a neural network using PyTorch, C++ to build a game with Unreal Engine 5, Haskell to write an interpreter for other programming languages, 
         or C to communicate with other systems over a network using OpenMP and MPI, the possibilities are endless. 

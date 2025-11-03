@@ -8,9 +8,9 @@
             David Condroski
             <br/>
             <br/>
-            Master of Computer Science
+            Master of
             <br/>
-            Student @ <span class="illinois">Illinois</span>
+            Computer Science @ <span class="illinois">Illinois</span>
         </div>
     </div>
 </div>
