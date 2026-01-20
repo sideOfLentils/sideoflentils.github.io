@@ -10,10 +10,10 @@
         or C to communicate with other systems over a network using OpenMP and MPI, the possibilities are endless. 
     </p>
     <p>
-        Right now, I'm learning about what it takes to become an AI engineer 
-        while still expanding my knowledge of front-end web development with the creation of this portfolio website. 
+        Right now, I'm working towards becoming a software engineer 
+        while expanding my knowledge of front-end web development with the creation of this portfolio website. 
     </p>
     <p>
-        In the future, I plan to explore how mobile applications are created to better understand the field of IoT within computer science. 
+        In the future, I plan to explore how mobile applications are created, how to make a self-learning agent, and how to apply cybersecurity concepts to make secure applications. 
     </p>
 </section>
