@@ -17,4 +17,3 @@
         In the future, I plan to explore how mobile applications are created to better understand the field of IoT within computer science. 
     </p>
 </section>
-<p></p>
