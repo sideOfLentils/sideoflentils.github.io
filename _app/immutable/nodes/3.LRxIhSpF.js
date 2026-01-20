@@ -1,0 +1,7 @@
+import{s,n}from"../chunks/CZmuBx9L.js";import{S as r,i as l,d as h,b as c,e as p,g as m,j as g}from"../chunks/CYmuo3h0.js";function u(a){let e,o=`<h1>About Me</h1> <p>My time at the University of Illinois Urbana-Champaign has shown me what is possible throughout the field of computer science 
+        and how it connects to all other fields in ways I couldn&#39;t have imagined before coming to the university. 
+        Now that I have completed my Masters, I have a better sense of what is possible and what I can contribute, whether 
+        it be working in data science using SQL queries, 
+        python to construct a neural network using PyTorch, C++ to build a game with Unreal Engine 5, Haskell to write an interpreter for other programming languages, 
+        or C to communicate with other systems over a network using OpenMP and MPI, the possibilities are endless.</p> <p>Right now, I&#39;m working towards becoming a software engineer 
+        while expanding my knowledge of front-end web development with the creation of this portfolio website.</p> <p>In the future, I plan to explore how mobile applications are created, how to make a self-learning agent, and how to apply cybersecurity concepts to make secure applications.</p>`;return{c(){e=g("section"),e.innerHTML=o},l(t){e=p(t,"SECTION",{"data-svelte-h":!0}),m(e)!=="svelte-x9gii1"&&(e.innerHTML=o)},m(t,i){c(t,e,i)},p:n,i:n,o:n,d(t){t&&h(e)}}}class f extends r{constructor(e){super(),l(this,e,null,u,s,{})}}export{f as component};
