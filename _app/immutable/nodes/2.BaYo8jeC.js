@@ -1,4 +1,4 @@
-import{s as u,n as o}from"../chunks/CZmuBx9L.js";import{S as h,i as f,d as i,a as v,b as l,c as r,h as _,e as d,f as b,g as x,j as m,s as M}from"../chunks/2Eu0VRyT.js";function C(p){let e,n,t,c=`<div class="business-card"><div class="business-card-text">David Condroski
+import{s as u,n as o}from"../chunks/CZmuBx9L.js";import{S as h,i as f,d as i,a as v,b as l,c as r,h as _,e as d,f as b,g as x,j as m,s as M}from"../chunks/CYmuo3h0.js";function C(p){let e,n,t,c=`<div class="business-card"><div class="business-card-text">David Condroski
             <br/> <br/>
             Master of
             <br/>
