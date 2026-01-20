@@ -2,6 +2,7 @@
     --normal-font: "Gothic A1", sans-serif;
     --normal-text-color: #ffffff;
     --link-hover-color: #7DE9E2;
+    --link-divider-color: #2b1f3a;
     --content-width: 40%;
     --content-height: auto;
 
@@ -24,26 +25,34 @@ nav {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    gap: 10px;
 
     width: 300px;
     height: 40px;
     
     position: fixed;
     margin: 10px;
-
-    border-radius: 10px;
-    background-color: #2C2A33;
+    
 }
 
-a {
+nav a {
     pointer-events: auto;
     text-decoration: none;
+
+    padding: 0 5px;
+    border: 1px solid var(--link-divider-color);
+    border-width: 0 2px 0 0; /* top, right, bottom left */
 }
 
-a:hover {
+nav a:last-child {
+    border-width: 0;
+}
+
+nav a:hover {
+    background-color: var(--link-divider-color);
     color: var(--link-hover-color);
 }
+
+
 
 h1, h2, h3, h4, h5, h6, p, footer {
     color: #FFF;
