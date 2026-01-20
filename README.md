@@ -1,2 +1,2 @@
 # My portfolio website
-[[https://condroski.dev]]
+https://condroski.dev
