@@ -8,9 +8,13 @@
             David Condroski
             <br/>
             <br/>
-            Master of
+            Aspiring
+            Software Engineer
             <br/>
-            Computer Science @ <span class="illinois">Illinois</span>
+            UIUC BS/MCS Graduate
+            
         </div>
+        <img class="chess" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Chess_pawn_0968.jpg" alt="chessboard"/>
+        
     </div>
 </div>

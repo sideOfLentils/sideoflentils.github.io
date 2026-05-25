@@ -6,7 +6,7 @@
     --content-width: 40%;
     --content-height: auto;
 
-    --card-font-size: 23px;
+    --card-font-size: 30px;
     --card-background-color: #240750;
 
     --base-background-color: #0E0A1E;
@@ -99,6 +99,20 @@ footer {
     display: flex;
 }
 
+.subcontainer {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+
+.subcontainer.footer-container {
+    justify-content: center;
+    gap: 1%;
+}
+
 .container.card {
     justify-content: center;
     align-items: center;
@@ -150,9 +164,12 @@ footer {
 }
 
 .business-card {
-    width: 350px;
-    height: 200px;
+    width: 700px;
+    height: 400px;
     flex-shrink: 0;
+
+    display: flex;
+    justify-content: center;
 
     background-color: var(--card-background-color);
 }
@@ -161,22 +178,26 @@ footer {
     position: relative;
     padding: 5%;
     flex-shrink: 0;
+    width: 50%;
+
+    display: inline-block;
 
     color: var(--normal-text-color);
 
     font-family: var(--normal-font);
     font-size: var(--card-font-size);
     font-style: normal;
-    font-weight: 700;
+    font-weight: 1000;
     line-height: normal;
-    text-align: center;
+    text-align: left;
+    word-wrap: break-word;
 }
 
-.illinois {
-    color: #FF5F0F;
-    font-family: var(--normal-font);
-    font-size: var(--card-font-size);
-    font-style: normal;
-    font-weight: 700;
-    line-height: normal;
+.chess {
+    position: relative;
+    width: 200px;
+    margin: auto;
+
+    display: inline-block;
 }
+

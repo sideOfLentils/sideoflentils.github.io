@@ -19,8 +19,11 @@
 
 <div class="container footer">
     <footer>
-        Built with SvelteKit
-        <img id="footer-svelte-logo" src="/favicon.png" alt="Svelte Logo"/>
+        <div class="subcontainer footer-container">
+            <div>Contact me at <a href="mailto:dcondroski@gmail.com">dcondroski@gmail.com</a></div>
+            ·
+            <div>Connect on <a href="https://www.linkedin.com/in/david-condroski-0031b722a/">LinkedIn</a></div>
+        </div>
     </footer>
 </div>
 
