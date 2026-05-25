@@ -1,4 +1,4 @@
-import{s,n}from"../chunks/CZmuBx9L.js";import{S as r,i as l,d as h,b as c,e as p,g as m,j as g}from"../chunks/CYmuo3h0.js";function u(a){let e,o=`<h1>About Me</h1> <p>My time at the University of Illinois Urbana-Champaign has shown me what is possible throughout the field of computer science 
+import{s,n}from"../chunks/DYjCt7Qj.js";import{S as r,i as l,d as h,b as c,e as p,g as m,j as g}from"../chunks/D6KTrRhX.js";function u(a){let e,o=`<h1>About Me</h1> <p>My time at the University of Illinois Urbana-Champaign has shown me what is possible throughout the field of computer science 
         and how it connects to all other fields in ways I couldn&#39;t have imagined before coming to the university. 
         Now that I have completed my Masters, I have a better sense of what is possible and what I can contribute, whether 
         it be working in data science using SQL queries, 
