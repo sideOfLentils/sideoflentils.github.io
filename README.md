@@ -1,1 +1,2 @@
-# sideoflentils.github.io
+# My portfolio website
+https://condroski.dev
